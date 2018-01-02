@@ -1,0 +1,8 @@
+﻿  RGB_camera.cpp
+c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\kunyoung\onedrive\프로그램 개발\서울대 병원 rgb영상 촬영 프로그램 개발\rgb_camera\rgb_camera\rgb_camera.cpp(84): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\kunyoung\onedrive\프로그램 개발\서울대 병원 rgb영상 촬영 프로그램 개발\rgb_camera\rgb_camera\rgb_camera.cpp(85): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  RGB_CAMERA.vcxproj -> C:\Users\kunyoung\OneDrive\프로그램 개발\서울대 병원 RGB영상 촬영 프로그램 개발\RGB_CAMERA\Debug\RGB_CAMERA.exe
+  RGB_CAMERA.vcxproj -> C:\Users\kunyoung\OneDrive\프로그램 개발\서울대 병원 RGB영상 촬영 프로그램 개발\RGB_CAMERA\Debug\RGB_CAMERA.pdb (Full PDB)
